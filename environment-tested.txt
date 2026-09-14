@@ -1,0 +1,10 @@
+# Environment used for the release-script validation on 2026-09-14.
+# Install PyTorch separately for the target CPU/CUDA platform.
+python==3.13.0
+numpy==2.4.4
+pandas==3.0.3
+opencv-python==5.0.0.93
+scikit-image==0.26.0
+matplotlib==3.11.0
+torch==2.11.0+cu126
+bm3d==4.0.3

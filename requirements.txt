@@ -1,0 +1,6 @@
+bm3d>=4.0,<5
+matplotlib>=3.7,<4
+numpy>=1.24,<3
+opencv-python>=4.8,<6
+pandas>=2.0,<4
+scikit-image>=0.21,<1
